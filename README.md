@@ -1,3 +1,5 @@
+![Alt text](https://github.com/Dhruvbam/CS-Course-Sequence-Analyzer/blob/main/img.png)
+
 # CS Course Sequence Analyzer
 
 ## Project Overview
